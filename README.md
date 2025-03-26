@@ -1,6 +1,8 @@
 # About Me
 
-Bilingual data analyst with 5+ years of service experience, recognized for effectively prioritizing tasks to meet customer needs. With a proactive mindset and a sharp eye for detail, I focus on driving outcomes rather than just responding to them. My goal is to help organizations to make informed, strategic decisions by leveraging my technical expertise and collaborative approach.
+Detail-oriented Data Analyst with proven experience in customer service operations, recognized for building trust, handling competing priorities, and navigating ambiguity in fast-paced environments. Skilled in SQL, Excel, and Tableau, with a curious mindset and a solution-driven approach to uncovering insights that inform strategic decisions and advance business goals.
+
+Motivated to tell compelling data stories that engage stakeholders, support alignment, and drive meaningful action across teams
 
 Check out my projects below!
 
